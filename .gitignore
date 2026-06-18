@@ -1,9 +1,9 @@
-# Environnement virtuel
+# Virtual environment
 .venv/
 venv/
 env/
 
-# Données volumineuses (téléchargées automatiquement par torchvision)
+# Large data files (downloaded automatically by torchvision)
 data/
 
 # Python cache
