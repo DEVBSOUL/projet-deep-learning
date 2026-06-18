@@ -1,0 +1,24 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Données volumineuses (téléchargées automatiquement par torchvision)
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
